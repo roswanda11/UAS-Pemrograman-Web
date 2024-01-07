@@ -150,29 +150,28 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
 
 1. Design Fitur Tampilan Login
 
-![WhatsApp Image 2024-01-03 at 04 36 13(1)](https://github.com/roswanda11/toilet/assets/115516632/97c73fbd-3edb-42e4-ba95-aca2a8c470fa)
+![Tampilan Login roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/b9111dc8-72ac-448d-a9e9-b4c3243d3024)
 
 2. Design Fitur Tampilan Menu
-
-![WhatsApp Image 2024-01-03 at 04 36 13(2)](https://github.com/roswanda11/toilet/assets/115516632/31fe7138-4b3b-4dfd-896b-d9bea893659b)
+   
+![Tampilan Menu roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/486fda65-870c-4fe3-bdeb-e6d7484c8c4b)
 
 3. Design Fitur Tampilan Checklist Toilet
-
-![WhatsApp Image 2024-01-03 at 04 36 13](https://github.com/roswanda11/toilet/assets/115516632/23341fa3-242e-4459-b56a-acfd3b8873c7)
+   
+![Tampilan Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/9bd4df99-8b08-47ee-b4a7-e4b2bd975e21)
 
 4. Design Fitur Tampilan Tambah Data Checklist Toilet
-
-![WhatsApp Image 2024-01-03 at 04 36 13(3)](https://github.com/roswanda11/toilet/assets/115516632/13ef8162-3c66-4ec9-8e5e-91189fa9c67b)
+   
+![Tampilan TambahData Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/3c969fbc-4db1-4db7-a6e4-bf81905c853c)
 
 5. Design Fitur Tampilan Ubah Data Checklist Toilet
-   
-![WhatsApp Image 2024-01-03 at 04 36 12](https://github.com/roswanda11/toilet/assets/115516632/8bf2be9e-302e-47dd-aa5a-02eba77c92bd)
 
-  
+![Tambilan UbahData Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/4e713a36-4846-4caa-a6a2-74ac641cf547)
+
 6. Design Fitur Tampilan Data Toilet
+   
+![Tampilan Data Toilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/32feb8c9-2cab-4d90-9bbe-513adb3c2820)
 
-![WhatsApp Image 2024-01-03 at 04 36 13(4)](https://github.com/roswanda11/toilet/assets/115516632/e219c4a0-9d62-4e1e-ac8d-86a592d3ea11)
-
-8. Design Fitur Tampilan Tambah Data Toilet
-
-![WhatsApp Image 2024-01-03 at 05 00 14](https://github.com/roswanda11/toilet/assets/115516632/e3470b0c-4cb6-441f-abc0-3d180f4427cc)
+7. Design Fitur Tampilan Tambah Data Toilet
+   
+![Tampilan Tambah DataToilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/c8cd9576-5627-49f6-b9c3-64ad572a6467)
