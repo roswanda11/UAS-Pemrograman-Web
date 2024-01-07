@@ -26,7 +26,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 1. Demo terlampir pada link youtube, klik pada logo di bawah ini:
    
-<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="120px">
+[<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="120px">](https://youtu.be/A08_sesfymI)
 
 2. Domain aplikasi on Web Hosting, klik pada logo di bawah ini:
 
