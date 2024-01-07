@@ -19,20 +19,20 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 - **[Fitur-Fitur Website](#fitur-fitur-website)**<br>
 - **[Teknologi yang Digunakan](teknologi-yang-digunakan)**
 - **[Usecase Diagram](#usecase-diagram)**<br>
-- **[Wireframe dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana](#wireframe-dari-aplikasi-sistem-checklist-kebersihan-toilet-dengan-template-sederhana)**<br>
-- **[Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana](#design-dari-aplikasi-sistem-checklist-kebersihan-toilet-dengan-template-sederhana)**<br>
+- **[Wireframe Sistem Checklist Kebersihan Toilet](#wireframe-sistem-checklist-kebersihan-toilet)**<br>
+- **[Design Sistem Checklist Kebersihan Toilet](#design-sistem-checklist-kebersihan-toilet)**<br>
  
 <h2>Demo Aplikasi, Domain, dan Laporan</h2>
 
-1. Demo terlampir pada link youtube, klik disini:
+1. Demo terlampir pada link youtube, klik pada logo di bawah ini:
    
 <img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="120px">
 
-2. Domain aplikasi on Web Hosting, klik disini:
+2. Domain aplikasi on Web Hosting, klik pada logo di bawah ini:
 
 [<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">](https://checklistoilet.000webhostapp.com/)
 
-3. Laporan PDF, klik disini:
+3. Laporan PDF, klik pada logo di bawah ini:
    
 [<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">](https://drive.google.com/drive/folders/1-YAKQ6fySpLI8VmUGtiW4Cl902vjV2J9?usp=sharing)
 
@@ -158,7 +158,9 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
 
 1.4 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal dari sistem Checklist Kebersihan Toilet.
 
-# <h3>Wireframe dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
+# <h2>Wireframe Sistem Checklist Kebersihan Toilet<h2>
+
+> <h3>Wireframe dari Website Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
 
 1. Wireframe Tampilan Login
 
@@ -191,8 +193,9 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
    
 ![wireframe tambahdata roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/f2b75084-7ada-40c0-8bc8-e185176b888b)
 
+# <h2>Design Sistem Checklist Kebersihan Toilet<h2>
 
-# <h3>Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
+> <h3>Design dari Website Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
 
 1. Design Fitur Tampilan Login
 
