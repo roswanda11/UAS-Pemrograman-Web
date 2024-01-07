@@ -18,7 +18,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 2. Domain aplikasi on Web Hosting, klik disini:
 
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
+<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">(https://checklistoilet.000webhostapp.com/)
 
 3. Laporan PDF, klik disini:
    
@@ -146,7 +146,7 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
 
 1.4 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal dari sistem Checklist Kebersihan Toilet.
 
-> <h3>Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
+# <h3>Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
 
 1. Design Fitur Tampilan Login
 
