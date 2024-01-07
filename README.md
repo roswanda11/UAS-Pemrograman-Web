@@ -40,7 +40,7 @@ Username : admin
 Password : admin
 ```
 
- <h2>Penjelasan</h2>
+ <h2>Penjelasan Sistem Checklist Kebersihan Toilet</h2>
  
 Sistem Checklist Kebersihan Toilet berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untuk  memantau dan mengelola kebersihan toilet dengan lebih efisen. Sistem ini memungkinkan pengguna untuk melakukan pencatatan dan evaluasi secara sistematis terhadap kondisi kebersihan toilet, serta melakukan tindakan perbaikan jika diperlukan. Melalui fitur checklist, sistem ini memberikan panduan berupa kriteria tertentu yang harus dinilai, seperti kebersihan kloset, wastafel, lantai, dinding, kaca, ketersediaan sabun, keberadaan bau, dan status keseluruhan toilet.. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
 
