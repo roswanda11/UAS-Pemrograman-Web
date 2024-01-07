@@ -184,7 +184,8 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
 
 6. Wireframe Tampilan Ubah Data Checklist Toilet
    
-   
+![wireframe ubahdata roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/ff805c98-7caf-4fbe-8093-fa66c9f5f1ee)
+
 7. Wireframe Tampilan Data Toilet
 
 ![wireframe datatoilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/0e745bc2-fb4c-4d69-8c41-1adb5832b4bf)
