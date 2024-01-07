@@ -10,6 +10,18 @@ Mata Kuliah     : Pemrograman Web 1
 Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 ```
 
+## **Daftar Isi**
+
+- **[Demo Aplikasi, Domain, dan Laporan](#demo-aplikasi-domain-dan-laporan)**<br>
+- **[Akses User Login](#akses-user-login)**<br>
+- **[Penjelasan Sistem Checklist Kebersihan Toilet](#penjelasan-sistem-checklist-kebersihan-toilet)**<br>
+- **[Peruntukan Sistem Checklist Kebersihan Toilet](#peruntukan-sistem-checklist-kebersihan-toilet)**<br>
+- **[Fitur-Fitur Website](#fitur-fitur-website)**<br>
+- **[Teknologi yang Digunakan](teknologi-yang-digunakan)**
+- **[Usecase Diagram](#usecase-diagram)**<br>
+- **[Wireframe dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana](#wireframe-dari-aplikasi-sistem-checklist-kebersihan-toilet-dengan-template-sederhana)**<br>
+- **[Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana](#design-dari-aplikasi-sistem-checklist-kebersihan-toilet-dengan-template-sederhana)**<br>
+ 
 <h2>Demo Aplikasi, Domain, dan Laporan</h2>
 
 1. Demo terlampir pada link youtube, klik disini:
@@ -18,7 +30,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 2. Domain aplikasi on Web Hosting, klik disini:
 
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">(https://checklistoilet.000webhostapp.com/)
+[<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">](https://checklistoilet.000webhostapp.com/)
 
 3. Laporan PDF, klik disini:
    
@@ -146,32 +158,70 @@ Dan Lainnya: Kami juga mengandalkan sejumlah tools dan teknologi terkini untuk m
 
 1.4 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal dari sistem Checklist Kebersihan Toilet.
 
+# <h3>Wireframe dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
+
+1. Wireframe Tampilan Login
+
+![wireframe login roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/fef1da2e-ce4f-44ff-a20e-587db420b221)
+
+2. Wireframe Tampilan Sign Up
+
+![wireframe signup roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/3b8493c3-596c-482d-a021-a5fa810882ea)
+
+3. Wireframe Tampilan Menu
+
+![wireframe menu roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/9ea13344-0dde-4456-98af-176ac2e4261c)
+
+4. Wireframe Tampilan Checklist Toilet
+
+![wireframe checklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/9c4d6fbd-c041-49d8-99c3-73b89dbc0adf)
+
+5. Wireframe Tampilan Tambah Data Checklist Toilet
+   
+![wireframe tambahdata roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/c8e21a58-8950-463d-a529-5d61886ecfd2)
+
+6. Wireframe Tampilan Ubah Data Checklist Toilet
+   
+   
+7. Wireframe Tampilan Data Toilet
+
+![wireframe datatoilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/0e745bc2-fb4c-4d69-8c41-1adb5832b4bf)
+
+8. Wireframe Tampilan Tambah Data Toilet
+   
+![wireframe tambahdata roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/f2b75084-7ada-40c0-8bc8-e185176b888b)
+
+
 # <h3>Design dari Aplikasi Sistem Checklist Kebersihan Toilet dengan Template Sederhana<h3>
 
 1. Design Fitur Tampilan Login
 
 ![Tampilan Login roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/b9111dc8-72ac-448d-a9e9-b4c3243d3024)
 
-2. Design Fitur Tampilan Menu
+2. Design Fitur Tampilan Sign Up
+
+![Tampilan TambahAkun roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/a6e114a9-9441-472a-a6fe-6e2807a78ba1)
+
+3. Design Fitur Tampilan Menu
    
 ![Tampilan Menu roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/486fda65-870c-4fe3-bdeb-e6d7484c8c4b)
 
-3. Design Fitur Tampilan Checklist Toilet
+4. Design Fitur Tampilan Checklist Toilet
    
 ![Tampilan Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/9bd4df99-8b08-47ee-b4a7-e4b2bd975e21)
 
-4. Design Fitur Tampilan Tambah Data Checklist Toilet
+5. Design Fitur Tampilan Tambah Data Checklist Toilet
    
 ![Tampilan TambahData Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/3c969fbc-4db1-4db7-a6e4-bf81905c853c)
 
-5. Design Fitur Tampilan Ubah Data Checklist Toilet
+6. Design Fitur Tampilan Ubah Data Checklist Toilet
 
 ![Tambilan UbahData Cheklist roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/4e713a36-4846-4caa-a6a2-74ac641cf547)
 
-6. Design Fitur Tampilan Data Toilet
+7. Design Fitur Tampilan Data Toilet
    
 ![Tampilan Data Toilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/32feb8c9-2cab-4d90-9bbe-513adb3c2820)
 
-7. Design Fitur Tampilan Tambah Data Toilet
+8. Design Fitur Tampilan Tambah Data Toilet
    
 ![Tampilan Tambah DataToilet roswanda11](https://github.com/roswanda11/UAS-Pemrograman-Web/assets/115516632/c8cd9576-5627-49f6-b9c3-64ad572a6467)
